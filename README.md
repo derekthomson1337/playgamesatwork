@@ -14,5 +14,4 @@ BestBuySteamPassword1337
 
 
 If you want a local copy of the readme for others, you'll need to save it in the program files!
-You'll need admin privs to save edit it :/ (trs10 is quite handy)
-
+View raw for line breaaks! 
