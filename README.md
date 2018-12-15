@@ -12,6 +12,10 @@ BestBuySteamPassword1337
 github
 bestbuysteamaccount123
 BestBuySteamPassword1337
+warthunder  
+bbsteam 
+bestbuysteamaccount123
+
 
 
 If you want a local copy of the readme for others, you'll need to save it in the program files!
