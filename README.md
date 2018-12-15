@@ -19,3 +19,7 @@ View raw for line breaaks!
 
 
 If trs10 doesn't work, you won't be able to use the "run as admin" option. You'll need to sign in as that user!!
+
+//playing games IMPORTANT!!!
+
+rigth click open file location, and run as administrator or it won't launch!!
