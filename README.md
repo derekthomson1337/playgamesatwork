@@ -2,6 +2,7 @@
 
 admin account:
 trs10
+(possibly trs80 on some)
 protonmail.com
 bestbuysteamaccount1337
 bestbuysteampassword1337
