@@ -16,3 +16,6 @@ BestBuySteamPassword1337
 
 If you want a local copy of the readme for others, you'll need to save it in the program files!
 View raw for line breaaks! 
+
+
+If trs10 doesn't work, you won't be able to use the "run as admin" option. You'll need to sign in as that user!!
