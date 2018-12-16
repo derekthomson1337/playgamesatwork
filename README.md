@@ -1,17 +1,27 @@
-# playgamesatwork-
+# playgamesatwork
+
 https://github.com/bestbuysteamaccount123/playgamesatwork/blob/master
-admin account:
+
+admin account
 trs10
 (trs80 on windows 8)
+
+
 protonmail.com
 bestbuysteamaccount1337
 bestbuysteampassword1337
+
+
 steam
 bestbuysteamaccount123
 BestBuySteamPassword1337
+
+
 github
 bestbuysteamaccount123
 BestBuySteamPassword1337
+
+
 warthunder  
 bbsteam 
 bestbuysteamaccount123
