@@ -36,7 +36,7 @@ bestbuysteamaccount123
 
 
 //playing games IMPORTANT!!!
-rigth click open file location, and run as administrator or it won't launch!!
+right click open file location, and run as administrator or it won't launch!!
 
 
 
